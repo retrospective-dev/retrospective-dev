@@ -3,7 +3,7 @@
 
 <img src="assets/heaven-exe-banner.png" width="100%" alt="Retro-Spective — Heaven.exe White Y2K">
 
-# ✧ RETROSPECTIVE-DEV.EXE ✧
+# ✧ RETROSPECTIVE-DEV ✧
 
 ### ＳＴＲＥＥＴＢＲＩＧＨＴＳ　ＭＥＤＩＡ　ＧＲＯＵＰ
 
