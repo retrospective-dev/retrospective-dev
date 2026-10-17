@@ -1,14 +1,21 @@
+
 <div align="center">
 
-<img src="assets/heaven-exe-banner.png" alt="Retro-Spective — Streetbrights Media Group" width="100%">
+<img src="assets/heaven-exe-banner.png" width="100%" alt="Retro-Spective — Heaven.exe White Y2K">
 
-# RETROSPECTIVE-DEV.EXE
+# ✧ RETROSPECTIVE-DEV.EXE ✧
 
-### STREETBRIGHTS MEDIA GROUP · RETRO-SPECTIVE
+### ＳＴＲＥＥＴＢＲＩＧＨＴＳ　ＭＥＤＩＡ　ＧＲＯＵＰ
 
-`GAMES` / `ANIME` / `CULTURE` / `PEOPLE` / `HISTORY` / `PRESERVATION`
+`SOFTWARE` ／ `PRESERVATION` ／ `DOCUMENTARIES` ／ `JAPANESE CULTURE`
 
-[STREETBRIGHTS](https://streetbrights.com) · [YOUTUBE CHANNEL](https://www.youtube.com/@Retro-SpectiveShow) · [PROJECTS](#-documentary-archive)
+[STREETBRIGHTS](https://streetbrights.com)　·　
+[RETRO-SPECTIVE](https://www.youtube.com/@Retro-SpectiveShow)　·　
+[PROJECTS](https://github.com/retrospective-dev)
+
+*過去から、未来へ。*
+<br>
+*From the past, to the future.*
 
 </div>
 
@@ -16,153 +23,179 @@
 
 <div align="center">
 
-`WELCOME TO THE ARCHIVE`　✳　`PAST / PRESENT / FUTURE`
+## ░▒▓ ABOUT THE STUDIO ▓▒░
 
 </div>
 
-## `// STREETBRIGHTS MEDIA GROUP`
+Streetbrights Media Group is an independent creative media project exploring video documentaries, games, anime, Japanese pop culture and digital history.
 
-Streetbrights Media Group is an independent creative media project focused on documentaries, research, and stories about games, anime, Japanese pop culture, and digital history.
+Through **Retro-Spective**, we investigate the stories behind the games, the people who made them, and the unusual histories that might otherwise be forgotten.
+
+Our approach combines research, interviews and documentary storytelling to connect the past with the present.
+
+<div align="center">
+
+[↗ VISIT STREETBRIGHTS.COM](https://streetbrights.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## ✧ RETRO-SPECTIVE ✧
+
+*Documentaries on games, anime and Japanese culture.*
+
+</div>
+
+Retro-Spective is a documentary series from Streetbrights Media Group dedicated to exploring overlooked stories from Japanese media and video game history.
+
+Rather than simply revisiting familiar releases, we investigate their development, creative decisions, creators and cultural context.
+
+### ▸ FEATURED DOCUMENTARY
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+<img src="https://placehold.co/600x360/11152b/8bbcff?text=SERIAL+EXPERIMENTS+LAIN" width="100%" alt="Serial Experiments Lain documentary artwork placeholder">
+
+</td>
+<td width="60%" valign="top">
+
+### The Strange Development of Serial Experiments Lain (PS1)
+
+A documentary exploring the unusual development of the 1998 PlayStation game *Serial Experiments Lain*.
+
+Featuring interviews with key creators and research into the ideas, production and history behind one of the most unusual games of its era.
+
+**Featuring interviews with:**
+
+- Yoshitoshi ABe
+- Yasuyuki Ueda
+- Chiaki J. Konaka
+
+[▶ FIND THE DOCUMENTARY ON YOUTUBE](https://www.youtube.com/@Retro-SpectiveShow)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ◇ PROJECT ARCHIVE ◇
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**THE STUDIO**
+### `01` — KuOnPc
 
-A home for researched video essays, interviews, and creative projects that explore the people and ideas behind the media we love.
+**Kuon · FromSoftware · PlayStation 2**
 
-[VISIT STREETBRIGHTS.COM ↗](https://streetbrights.com)
+An open-source research and development project focused on decompilation and PC-related work surrounding *Kuon* (2004).
+
+[⌘ VIEW REPOSITORY](https://github.com/retrospective-dev/KuOnPc)
 
 </td>
 <td width="50%" valign="top">
 
-**THE APPROACH**
+### `02` — DreamLinux Creative
 
-- Research before hype
-- Document the people behind the work
-- Preserve overlooked stories
-- Connect the past with the present
+**Linux · Creative Computing · Y2K**
+
+An experimental Debian-based Linux distribution concept inspired by the Dreamcast era, combining a lightweight environment with a distinctive retro-futuristic identity.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `03` — Retro-Spective
+
+**Documentary · Research · Preservation**
+
+Long-form documentary work investigating games, anime, Japanese media and the people behind them.
+
+[▶ YOUTUBE CHANNEL](https://www.youtube.com/@Retro-SpectiveShow)
+
+</td>
+<td width="50%" valign="top">
+
+### `04` — Streetbrights Media Group
+
+**Independent Creative Media**
+
+The home of our documentary projects, research and creative work.
+
+[↗ OFFICIAL WEBSITE](https://streetbrights.com)
 
 </td>
 </tr>
 </table>
 
-## `// RETRO-SPECTIVE`
-
-**Retro-Spective** is our documentary series exploring the stories, people, and history behind games, anime, and Japanese pop culture. The aim is to go beyond the surface and investigate how unusual projects came to exist, who made them, and why they still matter.
+---
 
 <div align="center">
 
-[**WATCH THE RETRO-SPECTIVE CHANNEL ↗**](https://www.youtube.com/@Retro-SpectiveShow)
+## ░▒▓ RESEARCH INTERESTS ▓▒░
 
 </div>
 
-## `// DOCUMENTARY ARCHIVE`
+| FIELD | FOCUS |
+|:--|:--|
+| Game preservation | Historical software and overlooked releases |
+| Reverse engineering | Understanding how games and software work |
+| Japanese media | Anime, games, creators and production history |
+| Documentary production | Research-led video essays and interviews |
+| Linux experiments | Lightweight systems and creative computing |
 
-<table>
-<tr>
-<td width="34%" valign="top">
-
-<img src="https://placehold.co/640x360/11152b/9ba8ff?text=SERIAL+EXPERIMENTS+LAIN" alt="Serial Experiments Lain documentary placeholder artwork" width="100%">
-
-</td>
-<td valign="top">
-
-### The Strange Development of *Serial Experiments Lain* (PS1)
-
-**Status: Completed**
-
-A documentary investigating the unusual development of the 1998 PlayStation game *Serial Experiments Lain*, its ideas, and the creative people behind it.
-
-The project includes interviews with **Yoshitoshi ABe**, **Yasuyuki Ueda**, and **Chiaki J. Konaka**.
-
-[WATCH ON THE RETRO-SPECTIVE CHANNEL ↗](https://www.youtube.com/@Retro-SpectiveShow)
-
-`PLAYSTATION` `DOCUMENTARY` `RESEARCH` `JAPANESE MEDIA`
-
-</td>
-</tr>
-</table>
-
-> The link above leads to the series channel because a verified direct URL for the individual documentary has not been added here yet.
-
-## `// PROJECTS & RESEARCH`
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### KuOnPc
-
-Research and decompilation work focused on *Kuon*, FromSoftware's 2004 survival horror game.
-
-[VIEW REPOSITORY ↗](https://github.com/retrospective-dev/KuOnPc)
-
-`GAME PRESERVATION` `RESEARCH`
-
-</td>
-<td valign="top" width="50%">
-
-### Digital history
-
-Ongoing interests include game development history, archival research, reverse engineering, and documenting overlooked corners of Japanese media.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### DreamLinux Creative
-
-An experimental concept for a lightweight, Debian-based creative Linux environment with a Dreamcast-inspired Y2K visual identity.
-
-</td>
-<td valign="top" width="50%">
-
-### More stories to come
-
-Future documentary ideas and research will be shared here as projects develop. Only completed releases are listed as completed.
-
-</td>
-</tr>
-</table>
-
-## `// INTERFACE & TOOLBOX`
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,debian,git,github,md&theme=light" alt="Linux, Debian, GitHub and Markdown icons">
+## ✧ DIGITAL TOOLBOX ✧
+
+<img src="https://skillicons.dev/icons?i=linux,debian,git,github,md&theme=light" alt="Technology icons">
+
+<sub>Tools and platforms associated with projects and research.</sub>
 
 </div>
 
-*This is a small selection of tools and platforms relevant to the projects here, not a complete skills inventory.*
+---
 
-## `// SYSTEM STATUS`
+<div align="center">
+
+## `SYSTEM STATUS`
 
 ```text
-RETROSPECTIVE-DEV.EXE
----------------------
-[OK] RESEARCHING
-[OK] DOCUMENTING
-[OK] PRESERVING DIGITAL HISTORY
-[>>] EXPLORING WHAT COMES NEXT
+[ ONLINE ] STREETBRIGHTS MEDIA GROUP
 
-MISSION: KEEP THE STORIES ALIVE.
+> researching forgotten histories...
+> documenting creative work...
+> exploring games and technology...
+> preserving stories for the future...
+
+STATUS: CONTINUING
 ```
 
-## `// CONNECT`
+### FIND US ONLINE
 
-- **Website:** [streetbrights.com](https://streetbrights.com)
-- **YouTube:** [@Retro-SpectiveShow](https://www.youtube.com/@Retro-SpectiveShow)
-- **GitHub:** [@retrospective-dev](https://github.com/retrospective-dev)
+[WEBSITE](https://streetbrights.com)　·　
+[YOUTUBE](https://www.youtube.com/@Retro-SpectiveShow)　·　
+[REPOSITORIES](https://github.com/retrospective-dev)
 
-<div align="center">
+<br>
 
-`過去から、未来へ。`
+**ＲＥＴＲＯＳＰＥＣＴＩＶＥ－ＤＥＶ**
 
-**FROM THE PAST, TO THE FUTURE.**
+*Old technology still has something to teach us about the future.*
 
-<sub>STREETBRIGHTS MEDIA GROUP × RETRO-SPECTIVE</sub>
+`END OF TRANSMISSION // 1998—∞`
 
 </div>
